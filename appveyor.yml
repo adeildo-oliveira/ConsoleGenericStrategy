@@ -12,6 +12,6 @@ build_script:
   - cmd: dotnet publish ./ConsoleGenericStrategy/ConsoleGenericStrategy.csproj
 clone_depth: 1
 test_script:
-  - cmd: dotnet restore ./ConsoleGenericStrategy.Tests.csproj --verbosity m
-  - cmd: dotnet test ./ConsoleGenericStrategy.Tests.csproj
+  - cmd: dotnet restore ./ConsoleGenericStrategy.Tests/ConsoleGenericStrategy.Tests.csproj --verbosity m
+  - cmd: dotnet test ./ConsoleGenericStrategy.Tests/ConsoleGenericStrategy.Tests.csproj
 deploy: off
