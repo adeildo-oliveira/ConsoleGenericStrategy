@@ -14,7 +14,7 @@ Este projeto tem como objetivo, propor a escrita do pattern stategy de forma gen
     docker run -i --name console-strategy consolestrategy-generic
     ```
 
-### Após a exeução será exibido as mensagens abaixo:
+### Após a execução, será exibido as mensagens abaixo:
 * Cliente alteração
 * Endereço alteração
 * Telefone alteração
