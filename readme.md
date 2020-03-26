@@ -1,9 +1,7 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/ucxwgqb0ypj73tt9?svg=true)](https://ci.appveyor.com/project/adeildo-oliveira/consolegenericstrategy)
 
 >## Pattern Strategy Generic
-Este projeto tem como objetivo, propor o patter stategy de forma genérica e dinâmica.
-
-Neste projeto, foi usado também a injeção de dependência do dotnet core.
+Este projeto tem como objetivo, propor a escrita do pattern stategy de forma genérica e dinâmica. Foi usado também, injeção de dependência do dotnet core.
 
 ### No projeto, entrando na pasta aonde está o arquivo **Dockerfile**, executar os comandos abaixo:
 
